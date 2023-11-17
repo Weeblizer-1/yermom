@@ -1,4 +1,5 @@
-                            This is a Interstellar Copy if the main interstellar link is blocked.
+<h1>This is a Interstellar copy. You use this website if normal i=Interstellar is blocked.</h1>                           
+
 
 <div align="center">
     <h1>Interstellar V5</h1>
