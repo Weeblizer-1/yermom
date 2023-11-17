@@ -1,4 +1,4 @@
-<h1>This is a Interstellar copy. You use this website if normal i=Interstellar is blocked.</h1>                           
+<h1>This is a Interstellar copy. You use this website if normal Interstellar is blocked.</h1>                           
 
 
 <div align="center">
