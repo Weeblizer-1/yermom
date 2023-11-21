@@ -1,6 +1,8 @@
 <h1>This is a Interstellar copy. You use this website if normal Interstellar is blocked.</h1>                           
 
-<h3>Other webiste that I made is here.</h3> <h3> https://koolmathsite2.vercel.app/
+<h3>My Vercel websites</h3> <h3> 
+<li>https://coolmathsite.vercel.app</li>
+<li>https://koolmathsite2.vercel.app</li>
 
 <div align="center">
     <h1>Interstellar V5</h1>
