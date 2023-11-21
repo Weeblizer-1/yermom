@@ -10,6 +10,7 @@
 </div>
 
 > **If you do fork this repo, please give the original repo a star! It helps out alot and only 30% of people who fork give us a star... besides, you know you want to...**
+> <h3>Original Repo is here</h3> https://github.com/InterstellarNetwork/Interstellar
 
 <h2 align="center">Features</h2>
 <ul>
