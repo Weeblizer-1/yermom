@@ -32,7 +32,7 @@ if (!inFrame && !navigator.userAgent.includes("Firefox")) {
 
         doc.head.appendChild(link);
         doc.body.appendChild(iframe)
-        location.replace("https://www.neshaminy.instructure.com/dashboard")
+        location.replace("https://neshaminy.instructure.com/dashboard")
     }
 }
 
