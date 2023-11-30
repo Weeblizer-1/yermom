@@ -1,8 +1,10 @@
-<h1>This is a Interstellar copy. You use this website if normal Interstellar is blocked.</h1>                           
+<h1>hi i fork proxys/unblockers here and make links for you to access them.</h1>                           
 
-<h3>My Vercel websites</h3> <h3> 
+<h3>interstellar websites that i forked and put on Vercel.</h3> <h3> 
 <li>https://coolmathsite.vercel.app</li>
 <li>https://koolmathsite2.vercel.app</li>
+
+<h3>below is just interstellar stuff that i forked but still go support them. they are cool :)</h3>
 
 <div align="center">
     <h1>Interstellar V5</h1>
