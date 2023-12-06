@@ -1,8 +1,9 @@
 <h1>hi i fork proxys/unblockers here and make links for you to access them.</h1>                           
 
-<h3>interstellar websites that i forked and put on Vercel.</h3> <h3> 
-<li>https://coolmathsite.vercel.app</li>
-<li>https://koolmathsite2.vercel.app</li>
+<h3> websites that i forked and put on Render. (render doesnt like interstellar and they will delete the website and your account if it is interstellar so it probably wont stay up long)</h3> https://boatshoppingfrfr.onrender.com
+
+<h3>my vercel website got all used up by my school lol
+the websites arent here anymore
 
 <h3>below is just interstellar stuff that i forked but still go support them. they are cool :)</h3>
 
